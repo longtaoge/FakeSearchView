@@ -3,7 +3,7 @@ Search made easy!
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FakeSearchView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1723)
 
-[](https://github.com/longtaoge/FakeSearchView/blob/master/FakeSearchViewSample/S.gif)
+[!](https://github.com/longtaoge/FakeSearchView/blob/master/FakeSearchViewSample/S.gif)
 
 So I think the native Android SearchView it's a good option when perform a search, but it's not customizable and it's so burocratic!
 
